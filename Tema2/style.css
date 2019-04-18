@@ -1,0 +1,14 @@
+#totul {
+    width: 300px;
+    margin: auto;
+}
+#titlumare {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-style: normal;
+}
+#text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+
+}
